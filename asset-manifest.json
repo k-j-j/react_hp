@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc366194.css",
-    "main.js": "/static/js/main.ff5952b0.js",
-    "static/js/787.e9e87dbc.chunk.js": "/static/js/787.e9e87dbc.chunk.js",
-    "static/media/phone_evening.png": "/static/media/phone_evening.306193df60a52e7f30b6.png",
-    "static/media/phone_morning.png": "/static/media/phone_morning.dc5224ae7a2a295a4a26.png",
-    "static/media/phone_night.png": "/static/media/phone_night.94cececf8e48b026347f.png",
-    "static/media/phone_afternoon.png": "/static/media/phone_afternoon.d6d84b8551e5aacbf17c.png",
-    "static/media/bg_evening.jpg": "/static/media/bg_evening.fd7b6e4460d61fc2e925.jpg",
-    "static/media/bg_night.jpg": "/static/media/bg_night.404cc6db60887e1dae27.jpg",
-    "static/media/bg_afternoon.jpg": "/static/media/bg_afternoon.a58c9857a83cd4b37bbe.jpg",
-    "static/media/bg_morning.jpg": "/static/media/bg_morning.62626ecf2eab5123df15.jpg",
-    "index.html": "/index.html",
-    "main.bc366194.css.map": "/static/css/main.bc366194.css.map",
-    "main.ff5952b0.js.map": "/static/js/main.ff5952b0.js.map",
-    "787.e9e87dbc.chunk.js.map": "/static/js/787.e9e87dbc.chunk.js.map"
+    "main.css": "/react_hp/static/css/main.15de737b.css",
+    "main.js": "/react_hp/static/js/main.c6c28676.js",
+    "static/js/787.e9e87dbc.chunk.js": "/react_hp/static/js/787.e9e87dbc.chunk.js",
+    "static/media/phone_evening.png": "/react_hp/static/media/phone_evening.306193df60a52e7f30b6.png",
+    "static/media/phone_morning.png": "/react_hp/static/media/phone_morning.dc5224ae7a2a295a4a26.png",
+    "static/media/phone_night.png": "/react_hp/static/media/phone_night.94cececf8e48b026347f.png",
+    "static/media/phone_afternoon.png": "/react_hp/static/media/phone_afternoon.d6d84b8551e5aacbf17c.png",
+    "static/media/bg_evening.jpg": "/react_hp/static/media/bg_evening.fd7b6e4460d61fc2e925.jpg",
+    "static/media/bg_night.jpg": "/react_hp/static/media/bg_night.404cc6db60887e1dae27.jpg",
+    "static/media/bg_afternoon.jpg": "/react_hp/static/media/bg_afternoon.a58c9857a83cd4b37bbe.jpg",
+    "static/media/bg_morning.jpg": "/react_hp/static/media/bg_morning.62626ecf2eab5123df15.jpg",
+    "index.html": "/react_hp/index.html",
+    "main.15de737b.css.map": "/react_hp/static/css/main.15de737b.css.map",
+    "main.c6c28676.js.map": "/react_hp/static/js/main.c6c28676.js.map",
+    "787.e9e87dbc.chunk.js.map": "/react_hp/static/js/787.e9e87dbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc366194.css",
-    "static/js/main.ff5952b0.js"
+    "static/css/main.15de737b.css",
+    "static/js/main.c6c28676.js"
   ]
 }
